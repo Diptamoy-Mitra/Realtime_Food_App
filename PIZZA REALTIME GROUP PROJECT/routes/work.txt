@@ -1,0 +1,25 @@
+The meaning of routes is : suppose you have hosted your project using liveserver. A fixed domain is provided, so if you have static project then you can see changes in url:
+
+ex: 
+ >. localhost: 3000/   >> home url, initial home page. Their is no domain name that means it domain name is "/"
+
+>> now suppose, you have gone to your login page:
+
+>. localhost: 3000/login     >>here its domain name is /login 
+
+
+
+*So to manage all the urls we have to do some min configaretions this configuretion is called routes*
+
+
+
+
+=======================================================
+
+2 main file is added here named web.js .
+BY doing this all the files will be wellstructured. If project grdually grows, it will help to understand.
+
+
+
+1. web.js : In web.js all the web  related routes will be stored.
+2. api.js : In this all the api related routes will be stored.

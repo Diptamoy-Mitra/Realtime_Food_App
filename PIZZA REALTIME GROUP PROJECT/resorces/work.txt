@@ -1,0 +1,9 @@
+resorces: all the uncompiled templets, saas file , js file will be here. All the folders / file will be created here after sucessfully compiling the files/folders will be transfered to public folder .
+
+
+3 main folder is here: 
+
+*in project we will use a tool what will compile the files from corresponding folders and will store further to the public corresponding folder*
+1.js: ...
+2.scss: ...
+3.views: all the html files will be stored here. index, card, order list, dashbourd

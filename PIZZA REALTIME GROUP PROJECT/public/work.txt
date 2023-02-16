@@ -1,0 +1,3 @@
+this is a public folder that mean all the public assest will be stored here.EX : css files , js files, fonts, images. All the files that are easily acessble on browser will be stored here.
+
+Aim: FrontEnd Requirements will be stored here

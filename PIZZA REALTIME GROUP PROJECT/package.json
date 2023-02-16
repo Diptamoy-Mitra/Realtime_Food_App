@@ -1,0 +1,8 @@
+{
+  "name": "Realtime_Food_App",
+  "version": "1.0.0",
+  "description": "A realtime application for foods where you can track all the realtime details and modern feture.",
+  "main": "index.js",
+  "author": "Diptomoy(c),Shaspa,Rahul,Samrat",
+  "license": "MIT"
+}
